@@ -67,6 +67,7 @@ Every figure on the report sheets is an Excel formula (`SUMIFS` etc.) over the c
 ## Files
 
 ```
+CASE_STUDY.md             Write-up of the problem, approach and results
 generate_sample_data.py   Creates the messy sample inputs (seeded, repeatable)
 build_report.py           Cleans, merges and writes the Excel report
 sample_data/              The four generated input files
